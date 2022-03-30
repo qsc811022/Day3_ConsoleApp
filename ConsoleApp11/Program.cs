@@ -31,10 +31,12 @@ namespace ConsoleApp11
 			//Console.WriteLine(new string('*', 3));
 			//Console.WriteLine(new string('*', 4));
 			//Console.WriteLine(new string('*', 5));
-			string valueA = "AllEn";
-			string valueB = "aLLeN";
-			int result = string.Compare(valueA, valueB, StringComparison.CurrentCultureIgnoreCase);
-			Console.WriteLine(result);
+			//string valueA = "AllEn";
+			//string valueB = "aLLeN";
+			//int result = string.Compare(valueA, valueB, StringComparison.CurrentCultureIgnoreCase);
+			//Console.WriteLine(result);
+
+
 
 
 
